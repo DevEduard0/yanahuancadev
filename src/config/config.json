@@ -1,0 +1,74 @@
+{
+  "site": {
+    "title": "Explora DAC",
+    "base_url": "https://example.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon1.png",  
+    "logo": "/images/logo2.png",
+    "logo_darkmode": "/images/logo_dark.png",
+    "logo_width": "150",
+    "logo_height": "39",
+    "logo_text": "Geeky"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": false,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": true,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "post_folder": "posts"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "footer_content": "Vive la aventura en Daniel Alcides Carrión",
+    "copyright": "Designed and Developed By [Edward Mendoza](https://wa.me/+51900119929/)"
+  },
+
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "Daniel Alcides Carrión te invita a explorar los fascinantes paisajes de la Cordillera Blanca y a descubrir la magia de su milenaria cultura andina."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": false,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": false,
+      "title": "Newsletter",
+      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "navigation_button": {
+    "enable": false,
+    "label": "Get Started",
+    "link": "https://example.com"
+  },
+
+  "metadata": {
+    "meta_author": "Edward",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Desarrollador"
+  }, 
+
+  "disqus": {
+    "enable": false,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}

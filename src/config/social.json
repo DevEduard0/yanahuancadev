@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "FaFacebook",
+      "link": "https://www.facebook.com/profile.php?id=100088829752630"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/EduardoAPSTI"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaFacebook",
+      "link": "https://www.facebook.com/Iestpdac"
+    }
+  ]
+}
