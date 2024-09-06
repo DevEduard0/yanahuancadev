@@ -22,12 +22,12 @@
           "url": "/categories/yanahuanca"
         },
         {
-          "name": "Chacayán",
-          "url": "/categories/chacayan"
-        },
-        {
           "name": "Vilcabamba",
           "url": "/categories/vilcabamba"
+        },
+        {
+          "name": "Chacayán",
+          "url": "/categories/chacayan"
         },
         {
           "name": "Goyllarisquizga",
@@ -48,13 +48,9 @@
       ]
     },
     {
-      "name": "Daniel Alcides Carrion",
+      "name": "¿Que es DAC?",
       "url": "/about"
-    },
-    {
-      "name": "Contacto",
-      "url": "/contact"
-    } 
+    }
   ],
   "footer": [
     {
@@ -66,8 +62,8 @@
       "url": "/categories"
     },
     {
-      "name": "Contactenos",
+      "name": "Contacto",
       "url": "/contact"
-    }
+    } 
   ]
 }

@@ -1,23 +1,23 @@
 {
   "site": {
-    "title": "Explora DAC",
+    "title": "Musk'uy wiñayta Yanahuanca",
     "base_url": "https://example.com",
     "base_path": "/",
-    "trailing_slash": false,
-    "favicon": "/images/favicon1.png",  
-    "logo": "/images/logo2.png",
-    "logo_darkmode": "/images/logo_dark.png",
+    "trailing_slash": true,
+    "favicon": "/images/log.png",  
+    "logo": "/images/end2.png",
+    "logo_darkmode": "/images/dark.png",
     "logo_width": "150",
-    "logo_height": "39",
+    "logo_height": "45",
     "logo_text": "Geeky"
   },
 
   "settings": {
     "search": true,
-    "sticky_header": false,
+    "sticky_header": true,
     "theme_switcher": true,
     "default_theme": "system",
-    "pagination": 6,
+    "pagination": 4,
     "InnerPaginationOptions": {
       "enableTop": true,
       "enableBottom": true
@@ -35,7 +35,7 @@
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Daniel Alcides Carrión te invita a explorar los fascinantes paisajes de la Cordillera Blanca y a descubrir la magia de su milenaria cultura andina."
+      "content": "Musk'uy wiñayta te invita a explorar los fascinantes paisajes de la Cordillera Blanca y a descubrir la magia de su milenaria cultura andina."
     },
     "featured_posts": {
       "enable": true,
@@ -67,7 +67,7 @@
   }, 
 
   "disqus": {
-    "enable": false,
+    "enable": true,
     "shortname": "themefisher-template",
     "settings": {}
   }

@@ -5,7 +5,7 @@ description: "meta description"
 education:
   title: ¿Qué significa Yanahuanca?
   degrees:
-    - university: Niedra Negra
+    - university: Piedra Negra
 experience:
   title: ¿Cuántos m.s.n.m está Yanahuanca?
   list:

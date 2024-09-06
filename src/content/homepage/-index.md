@@ -1,18 +1,18 @@
 ---
 banner:
-  title: Bienvenidos **!**
-  title_small: "El Sitio Mas Importante De La Provincia"
-  content: Conociendo las Maravillas de los Distritos de Daniel Alcides Carrión
+  title: ¡Bienvenidos! **!**
+  title_small: "Explora los Tesoros de Nuestra Provincia"
+  content: "Sumérgete en la riqueza cultural, paisajes impresionantes y la calidez de nuestra gente. Descubre lo que hace única a cada comunidad y vive una experiencia inolvidable."
   image_enable: true
   image: /images/main.jpg
   button:
     enable: true
-    label: Comenzar
+    label: Explora Más
     link: /posts
     rel: ""
 
 featured_posts:
-  enable: true
+  enable: false
   title: Publicaciones Recientes
 
 promotion:
@@ -21,6 +21,6 @@ promotion:
   link: "#"
 
 recent_posts:
-  title: Publicaciones Nuevas
+  title: Novedades
   enable: true
 ---

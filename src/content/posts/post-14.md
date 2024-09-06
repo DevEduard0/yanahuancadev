@@ -1,15 +1,13 @@
 ---
-title: Huarautambo | Astobamba
-date: 2023-12-04T14:00:00Z
+title: Huarautambo
+date: 2024-09-04T14:00:00Z
 image: /images/Sites/huara/Puente.jpg
 categories: ["Yanahuanca"]
 featured: false
 draft: false
 ---
 
-Astobamba es un asentamiento que perteneció a la cultura Yarowilca. Esta cultura ocupó Astobamba desde el Horizonte Medio hasta el Horizonte Tardío, esto es, desde 500 d.C. hasta el año 1532.
-
-Huarautambo, por su lado, es un asentamiento que data de la época incaica. Su función era servir de tambo y santuario. Los tambos, palabra que originalmente viene del quechua, eran posadas que se repartían en el camino, entre cada 20 o 30 kilómetros. Estos servían para albergar a las personas que funcionaban de emisarios, llamados chaskis, gobernadores o el Inca. También servían como centros para el acopio de alimentos y otros. Actualmente, Huarautambo forma parte del camino Qhapaq-Ñan y se encuentra en el centro del camión entre Cusco y Cajamarca.
+Huarautambo, es un asentamiento que data de la época incaica. Su función era servir de tambo y santuario. Los tambos, palabra que originalmente viene del quechua, eran posadas que se repartían en el camino, entre cada 20 o 30 kilómetros. Estos servían para albergar a las personas que funcionaban de emisarios, llamados chaskis, gobernadores o el Inca. También servían como centros para el acopio de alimentos y otros. Actualmente, Huarautambo forma parte del camino Qhapaq-Ñan y se encuentra en el centro del camión entre Cusco y Cajamarca.
 
 Edificado entre los siglos XII y XVI, Huarautambo está separado de Astobamba por un río que puede ser cruzado por un puente incaico. Este posee cascadas muy hermosas que pasan a través de recintos que tienen un estilo arquitectónico muy característico de Cusco.
 
@@ -58,10 +56,50 @@ Se encuentra ubicado en la Provincia de Daniel Alcides Carrión, Distrito de Yan
   <img src="/images/Sites/huara/Paqcha.jpg" width="49%" />
   <img src="/images/Sites/huara/Poso.jpg" width="49%" />
   <img src="/images/Sites/huara/uente.jpg" width="49%" />
+
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-01.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-02.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-03.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-04.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-05.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-06.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-07.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-08.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-09.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-10.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-11.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-12.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-13.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-14.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-15.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-16.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-17.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-18.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-19.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-20.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-21.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-22.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-23.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-24.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-25.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-26.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-27.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-28.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-29.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-30.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-31.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-32.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-33.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-34.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-35.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-36.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-37.jpg" width="49%" />
+<img src="/images/Sites/Huarautambo/Escaneado_20240902-1748-38.jpg" width="49%" />
+
+
+
 </div>
 
-
-# Astobamba
 
 ## Importancia
 El sitio arqueológico Huarautambo, edificado entre los siglos XII - XVI​, fue un asentamiento inca que servía de tambo (lugar para el descanso y acopio de recursos utilizado por el personal estatal inca) y santuario. Forma parte del Camino del Inca o Qhapaq Ñan y se ubica entre Wanuko Marka (al norte) y el pueblo Pumpu (al sur). Las edificaciones en este lugar muestran dos estilos arquitectónicos, uno inca y el otro yarush6​, debemos este doble estilo a los hombres constructores, pues algunos eran picapedreros cusqueños, mientras que el resto eran, principalmente, hombres de la cultura Yarush.
