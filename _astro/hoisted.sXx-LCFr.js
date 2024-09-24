@@ -1,0 +1,1 @@
+import"./hoisted.BmCfiwAq.js";import"./index.Dr4bzSqP.js";const o=document.getElementsByTagName("html")[0],t=()=>{o.style["scroll-behavior"]="auto"};t();document.addEventListener("astro:beforeload",t);
